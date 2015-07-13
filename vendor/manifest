@@ -1,0 +1,49 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/garyburd/redigo/internal",
+			"repository": "https://github.com/garyburd/redigo",
+			"revision": "a47585eaae68b1d14b02940d2af1b9194f3caa9c",
+			"branch": "master",
+			"path": "/internal"
+		},
+		{
+			"importpath": "github.com/garyburd/redigo/redis",
+			"repository": "https://github.com/garyburd/redigo",
+			"revision": "a47585eaae68b1d14b02940d2af1b9194f3caa9c",
+			"branch": "master",
+			"path": "/redis"
+		},
+		{
+			"importpath": "github.com/jtolds/gls",
+			"repository": "https://github.com/jtolds/gls",
+			"revision": "9a4a02dbe491bef4bab3c24fd9f3087d6c4c6690",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/mattheath/base62",
+			"repository": "https://github.com/mattheath/base62",
+			"revision": "b80cdc656a7a61702f293555d54777d6ff617eb7",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/smartystreets/assertions",
+			"repository": "https://github.com/smartystreets/assertions",
+			"revision": "8121b35a306f72fab16bdbc59d7809563955ca4d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/smartystreets/goconvey",
+			"repository": "https://github.com/smartystreets/goconvey",
+			"revision": "3b449549a8ff4a45c77a9c6a5ef38a6f94495936",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/yaml.v2",
+			"repository": "https://gopkg.in/yaml.v2",
+			"revision": "7ad95dd0798a40da1ccdff6dff35fd177b5edf40",
+			"branch": "v2"
+		}
+	]
+}
